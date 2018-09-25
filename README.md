@@ -27,8 +27,8 @@ Make sure you have `python 3.6` installed and virtual environment of your choosi
 source ./install.sh
 ```
 
-to install python dependencies. Then you should be able to run `jupyter notebook` and view `Solution.ipynb`. File `model.py` contains neural network class used as a Q function and file `dqn_agent.py` contains agent code.
+to install python dependencies. Then you should be able to run `jupyter notebook` and view `navigation.ipynb`. File `model.py` contains neural network class used as a Q function and file `dqn_agent.py` contains agent code.
 
 ## Instructions
 
-Run `Soultion.ipynb` for further details.
+Run `navigation.ipynb` for further details.
